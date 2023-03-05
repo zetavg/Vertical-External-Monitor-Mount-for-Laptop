@@ -6,7 +6,7 @@ Slicer profiles can be found in the `Slicer Profiles` directory.
 
 ## Ready-to-print Files
 
-All files under this directory follows the naming rule:
+All files under the `Ready-to-print Files` directory follows the naming rule:
 
 ```
 VEMML-[version]-[varient]-[machine][-material][-batch]
