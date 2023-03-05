@@ -6,7 +6,9 @@ Mount an external monitor on top of your laptop's built-in monitor—benefits yo
 
 Built with Fusion 360, parameters can be modified to fit varies models of external monitors and laptops.
 
-[Download the .f3z source file here](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/blob/main/Vertical%20External%20Monitor%20Mount%20for%20Laptop.f3z?raw=true).
+**[Download the .f3z source file here](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/blob/main/Vertical%20External%20Monitor%20Mount%20for%20Laptop.f3z?raw=true)**.
+
+For ready-to-print files and slicer profiles, see: [./Prints](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/tree/main/Prints#materials).
 
 > *MacBook Air 3D model from 
 [Kubil on GrabCAD](https://grabcad.com/library/macbook-air-2019-1). The external monitor shown in the picture is a [UPERFECT 13.3" 4K Portable Monitor](https://grabcad.com/library/uperfect-4k-portable-monitor-for-laptop-13-3-uhd-3840x2160-1).*
