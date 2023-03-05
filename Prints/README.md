@@ -13,9 +13,9 @@ VEMML-[version]-[varient]-[machine][-material][-batch]
 ```
 
 - `[version]`: such as `v0_2`.
-- `[varient]`: a short varient code, see the Varient Codes section below for a reference table.
-- `[machine]`: a code that represents the 3D printing machine, see the Machines section below for a reference table.
-- `[-material]`: a code that represents the filament or resin, see the Materials section below for a reference table. Some files are generic according to the material used, and they will not contain this part in their filename.
+- `[varient]`: a short varient code, see the [Varient Codes](#varient-codes) section below for a reference table.
+- `[machine]`: a code that represents the 3D printing machine, see the [Machines](#machines) section below for a reference table.
+- `[-material]`: a code that represents the filament or resin, see the [Materials](#materials) section below for a reference table. Some files are generic according to the material used, and they will not contain this part in their filename.
 - `[-batch]`: some printers require mutiple batches to print all the parts needed, in such case this part will be like `x_of_y`. Some batch may need to be printed mutiple times to get all the parts needed, for those batchs a `t_z` will be added, such as `1_of_3_t_2` means that this batch should be printed 2 times.
 
 Examples:
