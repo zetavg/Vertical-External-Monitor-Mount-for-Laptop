@@ -14,8 +14,8 @@ VEMML-[version]-[varient]-[machine][-material][-batch]
 
 - `[version]`: such as `v0_2`.
 - `[varient]`: a short varient code, see the [Varient Codes](#varient-codes) section below for a reference table.
-- `[machine]`: a code that represents the 3D printing machine, see the [Machines](#machines) section below for a reference table.
-- `[-material]`: a code that represents the filament or resin, see the [Materials](#materials) section below for a reference table. Some files are generic according to the material used, and they will not contain this part in their filename.
+- `[machine]`: a code that represents the 3D printing machine, see the [Machine Codes](#machine-codes) section below for a reference table.
+- `[-material]`: a code that represents the filament or resin, see the [Material Codes](#material-codes) section below for a reference table. Some files are generic according to the material used, and they will not contain this part in their filename.
 - `[-batch]`: some printers require mutiple batches to print all the parts needed, in such case this part will be like `x_of_y`. Some batch may need to be printed mutiple times to get all the parts needed, for those batchs a `t_z` will be added, such as `1_of_3_t_2` means that this batch should be printed 2 times.
 
 Examples:
@@ -26,14 +26,26 @@ Examples:
 
 - UPERFECT 13.3" 4K (T10 R6.4 SD-15 BD-15) on MacBook Air 2020: `A001`, if there's no `A001` then use `0000`
 
-### Machines
+### Machine Codes
+
+> See the [3D Printers](#3d-printers) section below for more info about each 3D printer.
 
 - `PN4K`: Phrozen Sonic Mini 4K
 - `S2A2`: Snapmaker 2.0 A250
 
-#### More info
+### Material Codes
 
-##### Phrozen Sonic Mini 4K
+- `OP410`: Onyx Rigid Pro410 Resin
+- `PRS`: Phrozen Rock-Black Stiff Resin
+- `SPLA`: Snapmaker PLA 
+- `STPU` Snapmaker TPU
+
+
+### 3D Printers
+
+#### Phrozen Sonic Mini 4K
+
+> Limitations: Can only print legs less than 270mm long.
 
 3 batches: 
 
@@ -42,14 +54,3 @@ Examples:
 3. Main body (right)
 
 First batch need to print 2 times since we need 2 legs.
-
-###### Limitations
-
-Can only print legs less than 270mm long.
-
-### Materials
-
-- `OP410`: Onyx Rigid Pro410 Resin
-- `PRS`: Phrozen Rock-Black Stiff Resin
-- `SPLA`: Snapmaker PLA 
-- `STPU` Snapmaker TPU
