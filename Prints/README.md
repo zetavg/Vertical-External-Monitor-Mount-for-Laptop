@@ -41,9 +41,9 @@ Examples:
 - `STPU` Snapmaker TPU
 
 
-### 3D Printers
+## 3D Printers
 
-#### Phrozen Sonic Mini 4K
+### Phrozen Sonic Mini 4K
 
 > Limitations: Can only print legs less than 270mm long.
 
