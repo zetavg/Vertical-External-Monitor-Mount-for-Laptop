@@ -25,7 +25,7 @@ See the full video of assemble and usage on YouTube: https://youtu.be/1Dmn62khUA
 
 ## Manufacture
 
-This product can be 3D printed with FDM or Resin 3D printers. See https://hackmd.io/@z/vemml-manufacture.
+This product can be 3D printed with FDM or Resin 3D printers. See [more instructions in the wiki](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/wiki/Manufacture).
 
 ## Links
 
