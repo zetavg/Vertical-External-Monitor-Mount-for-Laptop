@@ -8,6 +8,10 @@ Built with Fusion 360, parameters can be modified to fit varies models of extern
 
 **[Download the .f3z source file here](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/blob/main/Vertical%20External%20Monitor%20Mount%20for%20Laptop.f3z?raw=true)**.
 
+Fusion 360 plugin requirements:
+
+* [ParametricText](https://apps.autodesk.com/FUSION/en/Detail/Index?id=2114937992453312456) - to carve model parameters on the models.
+
 For ready-to-print files and slicer profiles, see: [./Prints](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/tree/main/Prints#materials).
 
 > *MacBook Air 3D model from 

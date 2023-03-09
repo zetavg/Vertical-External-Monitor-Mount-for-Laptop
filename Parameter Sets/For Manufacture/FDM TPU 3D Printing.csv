@@ -1,0 +1,4 @@
+plastic_and_tpu_assembly_offset,mm,0.12 mm,"0.12 for FDM TPU"
+mount_tpu_assembly_offset,mm,0.5 mm,"0.5 for FDM TPU"
+feet_pad_front_face_z_offset,mm,-0.64 mm,"-0.64. Should also unsuppress the group ""[Optional-Manufacture] TPU 3D Printing Offsets"" in the Manufacture section to take effect."
+mount_hook_front_edge_tpu_additional_y_offset,mm,-0.24 mm,-0.24. Should also unsuppress the group ""[Optional-Manufacture] TPU 3D Printing Offsets"" in the Manufacture section to take effect.
