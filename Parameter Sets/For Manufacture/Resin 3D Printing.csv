@@ -2,13 +2,13 @@ screw_size_offest,mm,0.12 mm,"0.2 for FDM, 0.12 for Resin or SLS (Bigger = bigge
 screw_head_diameter_offset,mm,0.2 mm,"0.4 for FDM, 0.2 for Resin or SLS (Bigger = bigger hole)"
 screw_head_height_offset,mm,0.12 mm,"0.2 for FDM, 0.12 for Resin or SLS (Bigger = deeper)"
 nut_height_offset,mm,0.32 mm,"0.32 for FDM, 0.32 for Resin or SLS (Bigger = deeper)"
-nut_width_offset,mm,0.12 mm,"0.24 for FDM, 0.12 for Resin or SLS (Bigger = bigger hole)"
+nut_width_offset,mm,0.12 mm,"0.24 for FDM, 0.12 for Resin, 0.15 for SLS (Bigger = bigger hole)"
 
 
 plastic_assembly_offset,mm,0.16 mm,"0.2 for FDM, 0.16 for Resin or SLS"
 
 
-monitor_thickness_offset,mm,0.08 mm,"0.2 for FDM, 0.1 for Resin or SLS"
+monitor_thickness_offset,mm,0.1 mm,"0.2 for FDM, 0.1 for Resin or SLS"
 
 
 leg_open_axle_offset,mm,0.08 mm,"0.2 for FDM, 0.08 for Resin or SLS"
@@ -23,7 +23,7 @@ leg_plastic_assembly_z_additional_offset,mm,0.16 mm,"0.3 for FDM, 0.16 for Resin
 leg_plastic_assembly_face_offset,mm,0.04 mm,"0.18 for FDM, 0.04 for Resin or SLS"
 
 
-mount_hook_edge_tpu_additional_offset_on_plastic_y,mm,0.15 mm,"0 for FDM, 0.15 for Resin, 0 for SLS"
+mount_hook_edge_tpu_additional_offset_on_plastic_y,mm,0.15 mm,"0.01 for FDM, 0.15 for Resin, 0.01 for SLS"
 
 monitor_slot_z_angled_offset,mm,-0.5 mm,-0.5 for Resin. Should also unsuppress the group ""[Optional-Manufacture] Monitor Slot Z Offsets"" in the Manufacture section to take effect.
 monitor_slot_z_draft_offset,mm,-0.4 mm,-0.4 for Resin. Should also unsuppress the group ""[Optional-Manufacture] Monitor Slot Z Offsets"" in the Manufacture section to take effect.
