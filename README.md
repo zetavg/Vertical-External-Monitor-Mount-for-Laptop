@@ -12,7 +12,7 @@ Fusion 360 plugin requirements:
 
 * [ParametricText](https://apps.autodesk.com/FUSION/en/Detail/Index?id=2114937992453312456) - to carve model parameters on the models.
 
-For ready-to-print files and slicer profiles, see: [./Prints](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/tree/main/Prints#materials).
+~~For ready-to-print files and slicer profiles, see: [./Prints](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/tree/main/Prints#materials).~~ (Outdated)
 
 > *MacBook Air 3D model from 
 [Kubil on GrabCAD](https://grabcad.com/library/macbook-air-2019-1). The external monitor shown in the picture is a [UPERFECT 13.3" 4K Portable Monitor](https://grabcad.com/library/uperfect-4k-portable-monitor-for-laptop-13-3-uhd-3840x2160-1).*
@@ -21,7 +21,7 @@ For ready-to-print files and slicer profiles, see: [./Prints](https://github.com
 
 ![](./images/Usage.gif)
 
-See the full video of assemble and usage on YouTube: https://youtu.be/1Dmn62khUAA.
+See the full video of assemble and usage on YouTube: https://youtu.be/1Dmn62khUAA. Also check out the [Installation](https://github.com/zetavg/Vertical-External-Monitor-Mount-for-Laptop/wiki/Installation) page on the wiki.
 
 ## Manufacture
 
