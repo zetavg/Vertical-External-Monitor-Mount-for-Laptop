@@ -14,9 +14,9 @@ monitor_thickness_offset,mm,0.2 mm,"0.2 for FDM, 0.1 for Resin or SLS"
 leg_open_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin or SLS"
 leg_open_axle_face_offset,mm,0.36 mm,"0.36 for FDM, 0.16 for Resin or SLS"
 
-leg_rotation_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin, 0.12 for SLS"
+leg_rotation_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin, 0.16 for SLS"
 leg_rotation_axle_face_offset,mm,0.6 mm,"0.6 for FDM, 0.12 for Resin or SLS"
-leg_rotation_axle_cover_thread_offset,mm,0.3 mm,"0.3 for FDM, 0.18 for Resin or SLS"
+leg_rotation_axle_cover_thread_offset,mm,0.3 mm,"0.3 for FDM, 0.18 for Resin, 0.3 for SLS"
 
 leg_plastic_assembly_offset,mm,0.28 mm,"0.28 for FDM, 0.04~0.1 for Resin (Pro410 needs bigger), 0.15 for SLS"
 leg_plastic_assembly_z_additional_offset,mm,0.3 mm,"0.3 for FDM, 0.16 for Resin (since supports will leave dents), 0.05 for SLS"
