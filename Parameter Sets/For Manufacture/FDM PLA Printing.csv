@@ -8,13 +8,13 @@ nut_width_offset,mm,0.24 mm,"0.24 for FDM, 0.12 for Resin, 0.15 for SLS (Bigger 
 plastic_assembly_offset,mm,0.2 mm,"0.2 for FDM, 0.16 for Resin or SLS"
 
 
-monitor_thickness_offset,mm,0.2 mm,"0.2 for FDM, 0.1 for Resin or SLS"
+monitor_thickness_offset,mm,0.2 mm,"0.2 for FDM, 0.1 for self-printed Resin, 0.05 for Resin or SLS"
 
 
-leg_open_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin or SLS"
+leg_open_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin, 0.08 for SLS"
 leg_open_axle_face_offset,mm,0.36 mm,"0.36 for FDM, 0.16 for Resin or SLS"
 
-leg_rotation_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin, 0.16 for SLS"
+leg_rotation_axle_offset,mm,0.2 mm,"0.2 for FDM, 0.08 for Resin, 0.08 for SLS"
 leg_rotation_axle_face_offset,mm,0.6 mm,"0.6 for FDM, 0.12 for Resin or SLS"
 leg_rotation_axle_cover_thread_offset,mm,0.3 mm,"0.3 for FDM, 0.18 for Resin, 0.3 for SLS"
 

@@ -1,0 +1,24 @@
+monitor_width,mm,315 mm,The width of the mounted monitor
+monitor_height,mm,206 mm,The height of the mounted monitor
+monitor_thickness,mm,10 mm,The thickness of the mounted monitor
+monitor_corner_radius,mm,6.4 mm,The corner radius of the mounted monitor
+monitor_side_draft_angle,deg,-15 deg,
+monitor_bottom_side_draft_angle,deg,-15 deg,
+
+monitor_front_side_radius,mm,0.3 mm,Must be larger than 0.05
+monitor_front_bottom_radius,mm,0.3 mm,Must be larger than 0.05
+monitor_back_side_radius,mm,0.05 mm,Must be larger than 0.05
+monitor_back_bottom_radius,mm,0.05 mm,Must be larger than 0.05
+
+mount_hook_width,mm,50 mm,Default 50
+mount_hook_vertical_position,mm,24 mm,Default 24
+mount_hook_depth,mm,8 mm,Default 8
+mount_hook_thickness,mm,4.2 mm,Default 4.2
+
+leg_vertical_position,mm,65 mm,Default 65
+leg_length,mm,255 mm,Default 255
+
+leg_max_open_angle,deg,20 deg,
+
+leg_rotation_in_limit_angle,deg,95 deg,
+leg_rotation_out_limit_angle,deg,1 deg,
