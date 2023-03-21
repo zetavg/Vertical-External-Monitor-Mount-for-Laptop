@@ -1,5 +1,7 @@
 # 3D Prints
 
+**THIS IS CURRENTLY OUT-DATED**
+
 ## Slicer Profiles
 
 Slicer profiles can be found in the `Slicer Profiles` directory.
@@ -21,6 +23,8 @@ VEMML-[version]-[varient]-[machine][-material][-batch]
 Examples:
 
 * `VEMML-v0_2-A001-PN4K-OP410-1_of_3_t_2`
+* `VEMML-v0_3-A001-PN4K-OP410-2_of_3`
+* `VEMML-v0_3-A001-S2A2-STPU-1_of_2`
 
 ### Varient Codes
 
